@@ -1,3 +1,6 @@
+sudo apt install mysql-server -y
+sudo apt install php libapache2-mod-php php-mysql -y
+
 # Dynamic-Website
 CREATE DATABASE webdb;
 USE webdb;
